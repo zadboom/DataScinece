@@ -34,4 +34,4 @@ Evaluated model accuracy and performance using appropriate metrics and visualize
 # How to Use
 Clone this repository and run the notebook to explore the project:
 gh repo clone zadboom/DataScinece
-
+#Follow the instructions in the notebook to run the machine learning pipeline and see the results.
