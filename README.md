@@ -33,5 +33,5 @@ Used GridSearchCV to fine-tune model hyperparameters and find the best combinati
 Evaluated model accuracy and performance using appropriate metrics and visualized results using Matplotlib and Seaborn.
 # How to Use
 Clone this repository and run the notebook to explore the project:
-git clone https://github.com/your-username/your-repo-name.git
+gh repo clone zadboom/DataScinece
 
