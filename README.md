@@ -6,15 +6,23 @@ SpaceX advertises Falcon 9 rocket launches at a cost of $62 million, significant
 In this project, we explore various machine learning models and techniques to predict the successful landing of the Falcon 9’s first stage. The pipeline includes data preprocessing, feature selection, model training, and evaluation.
 
 # Tools and Libraries Used
-# Pandas: For data manipulation and analysis.
-# NumPy: To handle large, multi-dimensional arrays and perform mathematical operations.
-# Matplotlib & Seaborn: For data visualization, plotting trends, and analyzing correlations.
-# Scikit-learn: To implement machine learning models, including preprocessing, splitting data, and tuning algorithms.
+# Pandas:
+For data manipulation and analysis.
+# NumPy:
+To handle large, multi-dimensional arrays and perform mathematical operations.
+# Matplotlib & Seaborn: 
+For data visualization, plotting trends, and analyzing correlations.
+# Scikit-learn:
+To implement machine learning models, including preprocessing, splitting data, and tuning algorithms.
 # Machine Learning Models Implemented
-# Logistic Regression: A simple yet effective classification algorithm that estimates the probability of landing success.
-# Support Vector Machine (SVM): A powerful classifier that finds the optimal decision boundary.
-# Decision Tree: A tree-based classifier that models decision-making steps for predicting outcomes.
-# 3K Nearest Neighbors (KNN): A proximity-based classifier that predicts a class based on the closest data points.
+# Logistic Regression:
+A simple yet effective classification algorithm that estimates the probability of landing success.
+# Support Vector Machine (SVM):
+A powerful classifier that finds the optimal decision boundary.
+# Decision Tree:
+A tree-based classifier that models decision-making steps for predicting outcomes.
+# 3K Nearest Neighbors (KNN): 
+A proximity-based classifier that predicts a class based on the closest data points.
 Workflow
 # Data Preprocessing:
 Standardized data using preprocessing to ensure uniform scaling.
