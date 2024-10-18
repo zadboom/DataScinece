@@ -21,7 +21,7 @@ A simple yet effective classification algorithm that estimates the probability o
 A powerful classifier that finds the optimal decision boundary.
 # Decision Tree:
 A tree-based classifier that models decision-making steps for predicting outcomes.
-# 3K Nearest Neighbors (KNN): 
+# K Nearest Neighbors (KNN): 
 A proximity-based classifier that predicts a class based on the closest data points.
 Workflow
 # Data Preprocessing:
